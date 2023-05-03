@@ -1,0 +1,12 @@
+
+*.class
+*.class
+*.jar
+*.class
+target/classes/mephi/poitest/ExcelProvider.class
+target/PoiTest-0.1.jar
+target/classes/mephi/poitest/ExcelProvider.class
+target/classes/mephi/poitest/Group.class
+target/classes/mephi/poitest/Student.class
+target/maven-archiver/pom.properties
+target/PoiTest-0.1.jar
